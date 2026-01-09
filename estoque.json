@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "nome": "Peteca",
+    "categoria": "Brinquedo",
+    "quantidade": 6,
+    "preco": 10.5
+  },
+  {
+    "id": 3,
+    "nome": "Tenis",
+    "categoria": "Cal�ados",
+    "quantidade": 20,
+    "preco": 99.9
+  }
+]
